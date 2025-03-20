@@ -66,7 +66,8 @@ To **revolutionize digital learning certification** by enabling blockchain-backe
 - **Storage** – IPFS / Arweave for metadata  
 - **Frontend (Future Scope)** – React.js, Web3.js  
 
----
+## Contract Address
+Address: 0xBB7bFB38EC2038604778e006B7a849750bD5fE62
 
 ## ⚙️ Smart Contract  
 
